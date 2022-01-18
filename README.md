@@ -1,1 +1,3 @@
-"# bootstrap_blog" 
+"Blog Site"
+
+Used - Mongo DB, NodeJS, ExpressJS
